@@ -36,7 +36,7 @@ const ParkingLotStatus: React.FC<ParkingLotStatusProps> = ({ refreshToggle }) =>
 
     useEffect(() => {
         fetchStatus();
-        // Set up an interval to refresh status every 10 seconds (optional, but good for real-time)
+        // Set up an interval to refresh status every 10 seconds (100000 ms)
         const interval = setInterval(fetchStatus, 100000);
         return () => clearInterval(interval); // Clean up interval on component unmount
     }, [refreshToggle]);
