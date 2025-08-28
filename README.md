@@ -1,4 +1,4 @@
-# Frontend Project
+# Frontend 
 Follow these steps to get the project up and running on your local machine.
 
 ## 📋 Prerequisites
@@ -25,10 +25,10 @@ npm start
 
 This will launch the application and typically open it in your default web browser at http://localhost:3000. The server will automatically reload when you make changes to the code.
 
+---
 
 
-
-# Backend Project
+# Backend 
 This section provides instructions for setting up and running the backend application on a separate machine or IDE.
 
 ## 🛠️ Database Setup
