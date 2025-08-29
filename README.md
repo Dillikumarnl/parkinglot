@@ -1,4 +1,4 @@
-# Frontend 
++# Frontend 
 Follow these steps to get the project up and running on your local machine.
 
 ## Open your terminal or any IDE you want.
@@ -81,10 +81,10 @@ DB_PASSWORD='your db password'
 
 Replace the placeholder values with your actual database connection information.
 
-## 📦 Dependency Management
+## 📦 Dependency Management(optional)
 This project uses Maven for dependency management. If you need to reload or install the dependencies, you can do so from your IDE or by using the command line.
 
-Navigate to the backend project's root directory in your terminal and run the following command:
+Navigate to the backend project's search maven goals then enter:
 
 ```
 mvn clean install
@@ -93,10 +93,15 @@ mvn clean install
 This command will clean the previous build and install all the dependencies specified in the pom.xml file.
 
 ## 🚀 Running the Application
-After setting up the environment variables and installing the dependencies, you can run the backend application from your IDE by running the main class, or by using the following command:
+After setting up the environment variables and installing the dependencies, you can run the backend application from your IDE by running the** main class** using ▶️ button,
+
+ or 
+
+by using the following command:
 
 ```
 mvn spring-boot:run
 ```
+
 
 This will start the backend server, and you can now connect your frontend application to it.
