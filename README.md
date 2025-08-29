@@ -43,6 +43,7 @@ This will launch the application and typically open it in your default web brows
 
 # Backend 
 This section provides instructions for setting up and running the backend application.
+Note: For better user experience you may open the backend root in *intellij idea* IDE.
 
 ## Switch the present working directory to project/backend folder to run backend.
 ```
