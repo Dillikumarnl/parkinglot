@@ -54,6 +54,9 @@ make sure you have been in the current directory in /backend .
 ## 🛠️ Database Setup
 Before you can run the backend, you'll need to set up a database instance, either on your local machine or a remote server.
 
+## 📋 Prerequisites
+Make sure you have [java](https://www.oracle.com/in/java/technologies/downloads/) preinstalled in your host machine.
+
 ### Local Database
 For local development, you can install a database server like MySQL, PostgreSQL, or MongoDB (depending on the project's requirements) and create a new database instance for the application.
 
