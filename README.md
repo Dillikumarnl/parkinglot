@@ -1,6 +1,19 @@
 # Frontend 
 Follow these steps to get the project up and running on your local machine.
 
+## Open your terminal or any IDE you want.
+You can use *vs code*, *webStorm*,etc., Or simple use Terminal.
+
+## Clone the main Repo to get the copy of it.
+```
+git clone https://github.com/Dillikumarnl/parkinglot.git
+```
+## Switch to the project/frontend folder 
+```
+cd parkinglot/frontend
+```
+make sure you have been in the current directory in /frontend.
+
 ## 📋 Prerequisites
 Make sure you have [Node.js](https://nodejs.org/en/download) and [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) installed.
 
@@ -29,7 +42,13 @@ This will launch the application and typically open it in your default web brows
 
 
 # Backend 
-This section provides instructions for setting up and running the backend application on a separate machine or IDE.
+This section provides instructions for setting up and running the backend application.
+
+## Switch the present working directory to project/backend folder to run backend.
+```
+cd parkinglot/backend
+```
+make sure you have been in the current directory in /backend .
 
 ## 🛠️ Database Setup
 Before you can run the backend, you'll need to set up a database instance, either on your local machine or a remote server.
