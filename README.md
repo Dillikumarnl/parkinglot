@@ -1,4 +1,4 @@
-+# Frontend 
+# Frontend 
 Follow these steps to get the project up and running on your local machine.
 
 ## Open your terminal or any IDE you want.
