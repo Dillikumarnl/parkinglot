@@ -96,7 +96,7 @@ mvn clean install
 This command will clean the previous build and install all the dependencies specified in the pom.xml file.
 
 ## 🚀 Running the Application
-After setting up the environment variables and installing the dependencies, you can run the backend application from your IDE by running the** main class** using ▶️ button,
+After setting up the environment variables and installing the dependencies, you can run the backend application from your IDE by running the **main class** using ▶️ button,
 
  or 
 
