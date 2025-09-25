@@ -102,11 +102,11 @@ mvn clean install
 This command will clean the previous build and install all the dependencies specified in the pom.xml file.
 
 ## 🚀 Running the Application
-After setting up the environment variables and installing the dependencies, you can run the backend application from your IDE by running the **main class** using ▶️ button,
+After setting up the environment variables and install the dependencies, clean, rebuild and run the project from your IDE [IntelliJ IDEA](https://www.jetbrains.com/help/idea/run-java-applications.html) or [vscode](https://code.visualstudio.com/docs/languages/java) by using GUI.
 
  or 
 
-by using the following command:
+by using maven cli :
 
 ```
 mvn spring-boot:run
