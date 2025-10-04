@@ -93,10 +93,11 @@ Replace the placeholder values with your actual database connection information.
 ## 📦 Dependency Management(optional)
 This project uses Maven for dependency management. If you need to reload or install the dependencies, you can do so from your IDE or by using the command line.
 
+
 Navigate to the backend project's search maven goals then enter:
 
 ```
-mvn clean install
+mvn clean install -DskipTests
 ```
 
 This command will clean the previous build and install all the dependencies specified in the pom.xml file.
@@ -106,10 +107,15 @@ After setting up the environment variables and install the dependencies, clean, 
 
  or 
 
-by using maven cli :
+run by using maven cli :
 
 ```
 mvn spring-boot:run
+```
+or
+
+```
+java -jar target/parkinglot.jar
 ```
 
 
